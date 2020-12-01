@@ -18,3 +18,8 @@ $gitter-magenta: rgb(237, 25, 101);
 .navbar-brand span:last-child {
   display: none;
 }
+
+// Overrides for Docsy block/cover
+.td-cover-block {
+  background-image: url("/img/graphic-04.svg");
+}
