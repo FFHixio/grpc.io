@@ -4,8 +4,8 @@ linkTitle = "Docsy"
 
 +++
 
-{{< blocks/cover image_anchor="top" height="max" color="primary" >}}
-<img class="w-100 h-100 mb-3" src="/img/logos/grpc-logo.png" />
+{{< blocks/cover image_anchor="top" height="full" color="primary" >}}
+<img class="homepage__logo" src="/img/logos/grpc-logo.png" />
 
 <p class="mb-3 display-2">
 	A high performance, open source universal RPC framework

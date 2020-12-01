@@ -12,6 +12,16 @@ a > .fa-external-link-alt::before {
 }
 
 // Pages
+.homepage__logo {
+  width: 100%;
+}
+
 .td-cover-block {
   background-image: url("/img/graphic-04.svg");
+}
+
+@media screen and (min-width: 992px) {
+  .homepage__logo {
+    width: 50%;
+  }
 }
