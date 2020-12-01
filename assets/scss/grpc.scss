@@ -1,3 +1,11 @@
+// Global
+a > .fa-external-link-alt::before {
+  font-size: 50%;
+  margin-left: 3px;
+  opacity: 0.8;
+  vertical-align: top;
+}
+
 // Navbar
 .navbar-brand span:last-child {
   display: none;
